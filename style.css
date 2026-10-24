@@ -1,0 +1,10 @@
+.contact-btn {
+    background-color: #00695c;
+    color: #ffffff;
+    font-size: 18px;
+    border: none;
+}
+
+.contact-btn:hover {
+    background-color: blue;
+}
